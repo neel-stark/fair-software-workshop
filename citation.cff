@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: if you use this, pleae cite me
+authors:
+  - family-names: peel
+    given-names: berend
+title:
+version: 0.5.0
+doi:
+date-released: 2020-09-08
